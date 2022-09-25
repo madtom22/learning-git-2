@@ -12,4 +12,5 @@ for shop, stuff in list(lista.items()):
         y = x.capitalize()
         stuff_up.append(y)
         things = things + 1
-
+print(' ')
+print(things)
